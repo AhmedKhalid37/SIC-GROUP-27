@@ -48,7 +48,7 @@ The system addresses the challenge of depth perception in 2D images without expe
 2.  **Run the Script:**
     Execute the main Python script (or run the Jupyter Notebook):
     ```bash
-    python main.py
+    python sic_27.py
     ```
 
 3.  **View Results:**
