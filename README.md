@@ -61,7 +61,7 @@ The system uses YOLOv8n to identify objects with class IDs [2, 3, 5, 7] (Car, Mo
 
 ### 2. Distance Calculation
 We use the inverse relationship between object width in pixels and distance in meters:
-$$ D = \frac{W \times F}{P} $$
+D = (W * F) / P
 * **D**: Distance (meters)
 * **W**: Real Width of Vehicle (Standardized to 1.8m)
 * **F**: Focal Length (Calibrated to 1200)
