@@ -80,9 +80,10 @@ D = (W * F) / P
 * Deployment on edge devices like **Raspberry Pi** or **NVIDIA Jetson**.
 
 ## Team
-* **[Ahmed Khalid]**
-* **[Team Member Name]**
-* **[Team Member Name]**
+* **Ahmed Khalid**
+* **Mariam nidal abdullah**
+* **Abdullah Moosa**
+* **Sarah Ateeq**
 
 ## License
-This project is for educational purposes as part of the [Course Name/Capstone Project].
+This project is for educational purposes as part of the Samsung Innovation Campus, Capestone Project.
