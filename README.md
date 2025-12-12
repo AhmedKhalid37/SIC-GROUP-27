@@ -71,8 +71,8 @@ D = (W * F) / P
 * **Lane Filter:** Objects outside the center 40% of the image frame are flagged as **IGNORE**.
 * **Braking thresholds:**
     * **Red Zone (<15m):** Immediate Stop.
-    * **Yellow Zone (15-45m):** Decelerate.
-    * **Green Zone (>45m):** Cruising.
+    * **Yellow Zone (15-45m):** De-accelerate/slowdown .
+    * **Green Zone (>45m):** Safe, continue cruising.
 
 ## Future Improvements
 * Integration with **Lane Line Detection** (Hough Transform) for curved roads.
@@ -80,7 +80,7 @@ D = (W * F) / P
 * Deployment on edge devices like **Raspberry Pi** or **NVIDIA Jetson**.
 
 ## Team
-* **[Your Name]**
+* **[Ahmed Khalid]**
 * **[Team Member Name]**
 * **[Team Member Name]**
 
